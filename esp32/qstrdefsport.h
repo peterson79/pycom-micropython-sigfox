@@ -12,3 +12,5 @@ Q(/)
 // entries for sys.path
 Q(/flash)
 Q(/flash/lib)
+Q(hello)
+Q(drawPage)
